@@ -71,6 +71,7 @@ input {
   border-style: solid;
   border-color: rgb(208, 205, 205);
   text-align: center;
+  margin-right: 18px;
 }
 
 input::-webkit-outer-spin-button,
